@@ -4,6 +4,17 @@
     Author: BootstrapMade.com
     Author URL: https://bootstrapmade.com
 */
+hr
+{
+    height: 10px;
+    border: 1;
+    box-shadow: inset 0 9px 9px -3px black;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+}
 
 h1,
 h2,
